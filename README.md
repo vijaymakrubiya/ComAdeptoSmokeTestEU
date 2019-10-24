@@ -1,7 +1,7 @@
 ## Techinical notes:
 ● This project is developed using IntelliJ IDEA IDE
 
-● JAVA Programmin langauge used in this project
+● JAVA programming language used in this project
 
 ● Junit used for to assert the scenario end result
 
@@ -80,10 +80,10 @@ I need some more clarification on requirement for the functionality to drawout t
 
 ###### **Task 2.** System testing - write some test cases for the signup forms testing, i.e. the first page to submit the user information to open the ToU page etc.
 
-Written relevant test scenarios in BDD formate using gherkin langauge in cucumber fearture file in this project
+Written relevant test scenarios in BDD formate using gherkin language in cucumber fearture file in this project
 
 ###### **Task 3.** Complete an automation script to cover some of the test cases from task 2 .
-Preferred language Java but can be any language you are familiar with. Please provide a README about running the automation scripts.
 
-From task 2 have automate 1 test scenario.
-Note : User creating account required one time verification code from the personal email ID so its not possible to automate so thats need ot left as manual testing.
+Have automated 1 test scenario from task 2.
+
+Note : User creating account required one time verification code from the personal email ID so its not possible to automate so thats need to left as manual testing.
